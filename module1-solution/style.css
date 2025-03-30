@@ -1,0 +1,30 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+input {
+    width: 300px;
+    padding: 5px;
+}
+
+button {
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.message {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
